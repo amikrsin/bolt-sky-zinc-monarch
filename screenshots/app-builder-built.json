@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "सम्पूर्ण लक्ष्मी-गणेश दिवाली पूजा विधि",
+      "hasCanvas": false,
+      "bodyTextLen": 19734,
+      "bodyTextHash": "022ca7239bc59c17903c7d7f7b32fa2a582d45d94f252816941c327e5594e445",
+      "bodyTextPrefix": "लक्ष्मी-गणेश दिवाली पूजा बड़े अक्षर छापें पृष्ठ 1. आवरण 2. सूची ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "सम्पूर्ण लक्ष्मी-गणेश दिवाली पूजा विधि",
+      "hasCanvas": false,
+      "bodyTextLen": 19480,
+      "bodyTextHash": "c7c59047a684cac3d7b95e7065a9eab51817d4d4b235cead79e93aa151bbd06b",
+      "bodyTextPrefix": "सूची लक्ष्मी-गणेश दिवाली पूजा बड़े अक्षर छापें ॥ श्री गणेशाय नमः",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

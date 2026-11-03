@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Lakshmi Ganesh Diwali Puja">
+  <rect width="64" height="64" rx="14" fill="#17213B"/>
+  <rect x="4" y="4" width="56" height="56" rx="12" fill="#0E625A"/>
+  <rect x="7" y="7" width="50" height="50" rx="10" fill="none" stroke="#B58A3B" stroke-width="2"/>
+  <g fill="#B58A3B">
+    <ellipse cx="32" cy="30" rx="5.5" ry="13"/>
+    <ellipse cx="32" cy="30" rx="5.5" ry="13" transform="rotate(40 32 32)"/>
+    <ellipse cx="32" cy="30" rx="5.5" ry="13" transform="rotate(-40 32 32)"/>
+    <ellipse cx="32" cy="30" rx="5.5" ry="13" transform="rotate(90 32 32)"/>
+  </g>
+  <circle cx="32" cy="32" r="6.5" fill="#FFF8EC"/>
+  <circle cx="32" cy="32" r="3" fill="#D99A36"/>
+</svg>
